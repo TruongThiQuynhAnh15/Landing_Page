@@ -1,0 +1,28 @@
+@media screen and (max-width: 375px){
+    .header{
+        height: 65px;
+    }  
+    .header-logo{
+        padding-top: 24px;
+        padding-left: 20px;
+        padding-bottom: 21px;
+        padding-right: 94px;
+    }
+    .header-logo img{
+        width: 217px;
+        height: 20px;
+    }
+    .menu{
+        display: none;
+    }
+    .extend{
+        padding-top: 27px;
+        display: block;
+    }
+    .extend hr{
+        display: block;
+        width: 24px;    
+        margin-bottom: 7px;
+        border: 1px solid #000000;
+    }
+}
