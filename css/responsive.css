@@ -95,4 +95,54 @@
         width: 335px;
         height: 192px;
     }
+    footer{
+        padding-top: 40px;
+        height: 456px;
+    }
+    .work-content{
+        padding-top: 22px;
+    }
+    .work-content .digital,.work-content .creativity,.work-content .strategy,.work-content .suspense,.work-content .growth{
+        display: none;
+    }
+    .work-content .remote{
+        width: 135px;
+}
+    .work-content .remote p{
+        font-size: 16px;
+    }
+    .work-content .ux{
+        width: 105px;
+        padding-right:18px;
+    }
+    .work-content .ux p{
+        font-size: 16px;
+        white-space: nowrap;
+    }
+    .work-content .distributed{
+        width: 150px;
+        padding-right: 0;
+    }
+    .work-content .distributed p{
+        font-size: 16px;
+    }
+    
+    .images-footer {
+        padding-top: 103.41px;
+    }
+    .images-footer img{
+        width: 236.37px;
+        height: 22.18px;
+    }
+    footer .footer-background .footer-content{
+        padding-top: 25.41px;
+    }
+    footer .footer-background .footer-content  p{
+        width: 287px;
+    }
+    .social-network .socials{
+        width: 181px;
+        height: 22px;
+        padding-top: 32px;
+    }
 }
