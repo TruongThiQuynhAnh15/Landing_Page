@@ -199,12 +199,156 @@
     .intro-user p{
         width: 245px;
         font-size: 14px;
-        line-height: 160%;
-        text-align: inline-block;
+line-height: 160%;
+text-align: inline-block;
     }
     .line3{
         padding-top: 91px;
         padding-bottom: 62px;
     }
+    .article-content .title p{
+        width: 335px;
+        font-size: 32px;
+        line-height: 38px;
+    }
+    .article-content .title {
+        padding-bottom: 29px;
+    }
+    .show-article{
+        width: 335px;
+        display: block;
+        justify-content: center;
+        padding-bottom: 0;
+    }
+    .article-item{
+        width: 335px;
+        padding-bottom: 42px;
+    }
+    .article-item .text p{
+        width: 262px;
+        font-size: 22px;
+        line-height: 120%;
+    }
+    .article-item img{
+        width: 335px;
+        height: 194px;
+    }
+
+    .sign-up{
+        padding-top: 50px;
+        width: 100%;
+    }
+    .form-signup{
+        width: 100%;
+        height: 305px;
+    }
+    .form .title{
+        padding-top: 42px;
+    }
+    .form .title span{
+        width: 249px;
+        font-size: 29px;
+line-height: 100%;
+    }
+    .form .content{
+        padding-top: 14px;
+    }
+    .form .content p{
+        width: 306px;
+        font-size: 16px;
+        line-height: 140%;
+        padding-bottom: 33px;
+    }
+    .textarea{
+        width: 335px;
+    }
+    .textarea input{
+        width: 220px;
+        font-size: 16px;
+        line-height: 19px;
+    }
+    .textarea button{
+        width: 103px;
+        font-size: 16px;
+        line-height: 19px;
+    }
+    .contact{
+        padding-bottom: 52px;
+    }
+    footer{
+        padding-top: 40px;
+        width: 100%;
+        height: 456px;
+        display: flex;
+        justify-content: center;
+    }
+    .work-content{
+        padding-top: 22px;
+        display: flex;
+        height:28px;
+    }
+    .work-content .digital{
+        display: none;
+    }
+    .work-content .remote{
+        width: 135px;
+        height: 28px;
+}
+    .work-content .remote p{
+        font-size: 16px;
+    }
+    .work-content .ux{
+        width: 105px;
+        height: 28px;
+        padding-right:18px;
+    }
+    .work-content .ux p{
+        font-size: 16px;
+        white-space: nowrap;
+    }
+    .work-content .distributed{
+        width: 150px;
+        height: 28px;
+        padding-right: 0;
+    }
+    .work-content .distributed p{
+        font-size: 16px;
+    }
+    .work-content .creativity{
+        display: none;
+    }
+    .work-content .strategy{
+        display: none;
+    }
+    .work-content .suspense{
+        display: none;
+    }
+    .work-content .growth{
+        display: none;
+    }
+    .images-footer {
+        padding-top: 103.41px;
+    }
+    .images-footer img{
+        width: 236.37px;
+        height: 22.18px;
+    }
+    footer .footer-background .footer-content{
+        padding-top: 25.41px;
+    }
+    footer .footer-background .footer-content .text{
+        width: 287px;
+        height: 71px;
+    }
     
+    .social-network .socials{
+        display: flex;
+        width: 181px;
+        height: 22px;
+        padding-top: 32px;
+        justify-content: space-between;
+    }
+    .footer-background{
+        width: 100%;
+    }
 }
