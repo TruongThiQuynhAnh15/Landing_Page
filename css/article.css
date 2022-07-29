@@ -1,7 +1,6 @@
 *{
     padding : 0;
     margin: 0;
-    box-sizing: border-box;
 }
 .main{
     width : 100%;
@@ -501,6 +500,7 @@ ul li{
     width: 638px;
     border: 1px solid #000000;
     height: 313px;
+    box-sizing: border-box;
 }
 .form{
     display: block;
